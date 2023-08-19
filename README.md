@@ -15,8 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-https://imgur.com/a/K5DxCXE
-
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVha3A3bGk1YjhxM205cXNtNDVhdW9zNjh1endlYXp1MWExOGZlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4GGeecrjn5XgtrtNti/giphy.gif
 GIF created with ...  
 KAP
 
